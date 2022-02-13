@@ -17,6 +17,7 @@
 rootProject.name = "servicetalk"
 
 include "servicetalk-annotations",
+        "servicetalk-archunit-test",
         "servicetalk-benchmarks",
         "servicetalk-bom",
         "servicetalk-buffer-api",
